@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27163797556",
+    "firebase_url": "https://android-dev-bd33b.firebaseio.com",
+    "project_id": "android-dev-bd33b",
+    "storage_bucket": "android-dev-bd33b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27163797556:android:e074e92aa85a96a2710261",
+        "android_client_info": {
+          "package_name": "com.insta.swjstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27163797556-h3h0pf182ho7qqhda4c9ddl7lp2v68of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUI0dWJGTgG6GwwBAOHiuoCYUWgDuuSic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27163797556-h3h0pf182ho7qqhda4c9ddl7lp2v68of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
